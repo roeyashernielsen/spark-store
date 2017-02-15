@@ -11,6 +11,7 @@
         <module>line-count</module>
         <module>word-count</module>
         <module>letter-count</module>
+        <module>digit-count</module>
     </modules>
 
     <properties>
